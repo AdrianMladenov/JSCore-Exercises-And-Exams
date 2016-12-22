@@ -92,7 +92,6 @@ function startApp() {
             showNotifications('infoBox', 'Registration successful !');
             ressetForms();
         }
-
     }
 
     //
@@ -199,7 +198,6 @@ function startApp() {
             }
             showView('viewSendMessage');
         }
-
     }
 
     //show-hide navigation bar links
